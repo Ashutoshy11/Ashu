@@ -6,7 +6,7 @@ body{
 }
 main{
     display: flex;
-    color:black;
+    color:red;
     justify-content: center;
     align-items: center;
     height: 100vh;
